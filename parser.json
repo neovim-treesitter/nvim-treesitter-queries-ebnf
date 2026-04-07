@@ -1,9 +1,9 @@
 {
   "generate": null,
   "generate_from_json": null,
-  "lang": "ebnf",
+  "url": "https://github.com/RubixDev/ebnf",
   "semver": false,
   "parser_version": "8e635b0b723c620774dfb8abf382a7f531894b40",
   "location": "crates/tree-sitter-ebnf",
-  "url": "https://github.com/RubixDev/ebnf"
+  "lang": "ebnf"
 }
